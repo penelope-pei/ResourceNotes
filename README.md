@@ -20,7 +20,13 @@
 ### 编程大牛
 - Linux 发明者 Linus Torvalds：https://github.com/torvalds
 - Rails 创始人 DHH：https://github.com/dhh
-- 「Android之神」 JakeWharton：https://github.com/JakeWharton，其中有很多开源库如 ButterKnife、OkHttp、 Retrofit、 Picasso、ViewPagerIndicator 等
+- 「Android之神」 JakeWharton：https://github.com/JakeWharton ，其中有很多开源库如 ButterKnife、OkHttp、 Retrofit、 Picasso、ViewPagerIndicator 等。
 
 ### 另
 #### 平时写作，且基于Markdown时， 并准备出版书籍，那么可用Gitbook ，技术写作人的最爱！
+
+#### Git在各平台上的安装方式：
+- Mac：https://sourceforge.net/projects/git-osx-installer/
+- Windows：https://git-for-windows.github.io/
+- Linux：apt-get install git
+- git速成：https://mp.weixin.qq.com/s/DtKv96uSLHDNadBieboGSw
